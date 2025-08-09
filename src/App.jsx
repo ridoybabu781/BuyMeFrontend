@@ -11,6 +11,7 @@ export default function App() {
         <div className="pt-16"></div>
         <Homepage />
         <Footer />
+        <div></div>
       </BrowserRouter>
     </div>
   );
