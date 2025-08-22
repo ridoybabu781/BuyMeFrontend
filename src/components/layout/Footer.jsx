@@ -17,11 +17,11 @@ export default function Footer() {
             <li className="flex items-center gap-2">
               <FaPhone />{" "}
               <a
-                href="tel:+880123456789"
+                href="tel:+8801735699781"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                +880 123 456 789
+                +880 1735-699781
               </a>
             </li>
             <li className="flex items-center gap-2">
@@ -31,7 +31,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                support@buyme.com
+                mdrezuanislamridoy@gmail.com
               </a>
             </li>
             <li className="flex items-center gap-2">
