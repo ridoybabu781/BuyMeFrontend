@@ -7,7 +7,7 @@ export default function Footer() {
         {/* 1️⃣ Brand & Contact */}
         <div>
           <h2 className="text-xl font-bold text-white mb-3">
-            BuyMe — Wrong Person
+            BuyMe — Ridoy Babu
           </h2>
           <p className="mb-4 text-sm">
             A trusted place to find quality products with a seamless shopping
@@ -129,7 +129,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <div className="border-t border-gray-800 text-center py-4 text-sm text-gray-500">
-        © {new Date().getFullYear()} BuyMe — Wrong Person. All rights reserved.
+        © {new Date().getFullYear()} BuyMe — Ridoy Babu. All rights reserved.
       </div>
     </footer>
   );
